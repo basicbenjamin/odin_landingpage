@@ -1,0 +1,68 @@
+.main_flex{
+    outline: 1px solid;
+}
+/* Navigation */
+.nav{
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+}
+.navTitle {
+    text-align: center;
+}
+.navLinks {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navLinks div {
+    margin-left: 10px;
+}
+
+
+
+/* Header */
+.header {
+    display: flex;
+    height: 150px;
+}
+
+/*
+.main_flex {
+    background-color: aquamarine;
+    width: 800px;
+    height: 700px;
+}
+
+.main_flex div {
+    outline: 1px solid;
+    border-color: brown;
+    
+}
+
+.flex1 {
+    height: 200px;
+}
+    .flex1_nav{
+        height: 50px;
+    }
+    .flex1_title{
+        height: 150px;
+    }
+
+.flex2 {
+    height: 150px;
+}
+
+.flex3 {
+    height: 150px;
+}
+
+.flex4 {
+    height: 150px;
+}
+
+.flex5 {
+    height: 50px;
+}
